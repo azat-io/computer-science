@@ -1,0 +1,19 @@
+{
+    "extends": "airbnb-base",
+    "env": {
+        "browser": true,
+        "node": true,
+    },
+    "globals": {
+        "test": true,
+        "expect": true,
+    },
+    "rules": {
+        "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
+        "arrow-body-style": ["error", "always"],
+        "indent": ["error", 4],
+        "no-param-reassign": 0,
+        "prefer-template": 0,
+        "no-console": 0,
+    },
+}
