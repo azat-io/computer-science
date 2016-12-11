@@ -3,5 +3,6 @@
 
 [![Build Status](https://travis-ci.org/azat-io/computer-science.svg?branch=master)](https://travis-ci.org/azat-io/computer-science)
 [![Dependency Status](https://gemnasium.com/badges/github.com/azat-io/computer-science.svg)](https://gemnasium.com/github.com/azat-io/computer-science)
+[![Coverage Status](https://coveralls.io/repos/github/azat-io/computer-science/badge.svg?branch=master)](https://coveralls.io/github/azat-io/computer-science?branch=master)
 
 My name is Azat and here I am trying to become a programmer :nerd_face:

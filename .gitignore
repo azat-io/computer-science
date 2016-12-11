@@ -5,5 +5,5 @@ npm-debug.log
 # Yarn
 yarn-error.log
 
-# Destination
-public
+# Code Coverage
+coverage
