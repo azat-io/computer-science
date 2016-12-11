@@ -13,6 +13,7 @@
         "arrow-body-style": ["error", "always"],
         "indent": ["error", 4],
         "no-param-reassign": 0,
+        "no-return-assign": 0,
         "prefer-template": 0,
         "no-console": 0,
     },
