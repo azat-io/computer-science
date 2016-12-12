@@ -9,7 +9,7 @@ test('String "test@bbc.co.uk" is email', () => {
 });
 
 test('String "test@nic.travel" is email', () => {
-    expect(matchEmail('to@azat.io')).toBe(true);
+    expect(matchEmail('test@nic.travel')).toBe(true);
 });
 
 test('String "to@azat.i" is not email', () => {
